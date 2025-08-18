@@ -1,10 +1,17 @@
-Hi there! 
-I’m Kushal, a design engineer based in Germany.
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
+I’m [**Kushal**](https://kushal-dev.vercel.app/), a Software Engineer based in India.
 
-Outside of code and Figma, you’ll find me watching anime, hitting the gym, or drawing. I also enjoy writing blog posts and sharing tech-related content on social media (over 160K combined followers and counting).
+22; i don’t just write code, i ship outcomes. ai assistants, blockchain dashboards, scalable systems; built fast, tested harder, deployed smarter. 
+still breaking things, still learning, still chasing mastery.
 
-Fun Facts:
-I don’t like coffee or tea.
-Demon Slayer is my favorite anime.
+If you’re working on something real, let’s talk.
+mail: kushal0213@gmail.com
+
+#### Tech Stack:
+
+* Languages: Python, JavaScript, TypeScript
+* Frontend: React, Next.js, Tailwind CSS
+* Backend: Node.js, Express.js, MongoDB, MySQL
+* DevOps: Git, AWS, Azure, Docker, Kubernetes, Jenkins, CI/CD
+* GenAi: HuggingFace, LangChain, RAG, LLM, AI Agents

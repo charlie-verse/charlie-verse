@@ -17,112 +17,104 @@ still breaking things, still learning, still chasing mastery.
 
 
 ### **Languages & Frameworks**
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br><b>TypeScript</b>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
     </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br><b>JavaScript</b>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
     </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br><b>Python</b>
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
     </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br><b>React</b>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="icon" />
+      <br>MongoDB
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br><b>Node.js</b>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="icon" />
+      <br>Expressjs
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
-      <br><b>Express.js</b>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
     </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="icon" />
+      <br>Nodejs
   </tr>
+  <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="icon" />
+      <br>Tailwind
+    </td>
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="icon" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=azure" alt="icon" width="65" height="65" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="icon" />
+      <br>Kubernetes
+
+
+  
+  </tr>
+ <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="icon" />
+      <br>Jenkins
+    </td>
+   <td align="center" width="96">
+        <img src="https://res.cloudinary.com/dt44k2ead/image/upload/v1755636128/cicd-svgrepo-com_hlhmkm.svg" width="48" height="48" alt="icon" />
+      <br>CI/CD
+    </td>
+   <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/huggingface" width="48" height="48" alt="icon" />
+      <br>HuggingFace
+    </td>
+   <td align="center" width="96">
+        <img src="https://res.cloudinary.com/dt44k2ead/image/upload/v1755635901/langchain-color_djb9qg.png" width="60" height="50" alt="icon" />
+      <br>Langchain
+    </td>
+  <td align="center" width="96">
+        <img src="https://res.cloudinary.com/dt44k2ead/image/upload/v1755637334/icons8-ai_ol2rvf.svg" width="48" height="48" alt="icon" />
+      <br>LLM
+    </td>
+   <td align="center" width="96">
+        <img src="https://res.cloudinary.com/dt44k2ead/image/upload/v1755637741/icons8-online-binary-code-64_jpuxvh.png" width="48" height="48" alt="icon" />
+      <br>RAG
+    </td>
+   <td align="center" width="96">
+        <img src="https://res.cloudinary.com/dt44k2ead/image/upload/v1755636275/agents_jfd1hp.png" width="48" height="48" alt="icon" />
+      <br>AI Agent
+    </td>
+ </tr>
+ 
 </table>
 
-### **Databases & Styling**
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br><b>MongoDB</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br><b>MySQL</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br><b>Tailwind</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br><b>Git</b>
-    </td>
-  </tr>
-</table>
-
-### **Cloud & DevOps**
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-      <br><b>AWS</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="65" height="65" />
-      <br><b>Azure</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br><b>Docker</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
-      <br><b>Kubernetes</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-      <br><b>Jenkins</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://res.cloudinary.com/dt44k2ead/image/upload/v1755636128/cicd-svgrepo-com_hlhmkm.svg" width="48" height="48" alt="CI/CD" />
-      <br><b>CI/CD</b>
-    </td>
-  </tr>
-</table>
-
-### **GenAI**
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/huggingface" width="48" height="48" alt="HuggingFace" />
-      <br><b>HuggingFace</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://res.cloudinary.com/dt44k2ead/image/upload/v1755635901/langchain-color_djb9qg.png" width="60" height="50" alt="Langchain" />
-      <br><b>Langchain</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://res.cloudinary.com/dt44k2ead/image/upload/v1755637334/icons8-ai_ol2rvf.svg" width="48" height="48" alt="LLM" />
-      <br><b>LLM</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://res.cloudinary.com/dt44k2ead/image/upload/v1755637741/icons8-online-binary-code-64_jpuxvh.png" width="48" height="48" alt="RAG" />
-      <br><b>RAG</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://res.cloudinary.com/dt44k2ead/image/upload/v1755636275/agents_jfd1hp.png" width="48" height="48" alt="AI Agent" />
-      <br><b>AI Agent</b>
-    </td>
-  </tr>
-</table>
 
 </div>
 

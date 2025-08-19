@@ -5,9 +5,6 @@ I’m [**Kushal**](https://kushal-dev.vercel.app/), a Software Engineer based in
 22; i don’t just write code, i ship outcomes. ai assistants, blockchain dashboards, scalable systems; built fast, tested harder, deployed smarter. 
 still breaking things, still learning, still chasing mastery.
 
-
----
-
 **If you're working on something real, let's talk.** ✉️  
 📧 **kushal0213@gmail.com**
 
@@ -17,7 +14,7 @@ still breaking things, still learning, still chasing mastery.
 
 ## 🚀 Tech Stack
 
-<div align="center">
+
 
 ### **Languages & Frameworks**
 <table>
@@ -101,7 +98,7 @@ still breaking things, still learning, still chasing mastery.
   </tr>
 </table>
 
-### **AI & Machine Learning**
+### **GenAI**
 <table>
   <tr>
     <td align="center" width="100">

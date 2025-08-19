@@ -9,7 +9,7 @@ If you’re working on something real, let’s talk.
 mail: kushal0213@gmail.com
 
 
-#### Tech Stack
+### Tech Stack
 <br />
 
 <table align="center">
